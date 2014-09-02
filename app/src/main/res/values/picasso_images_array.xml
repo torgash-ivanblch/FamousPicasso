@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="paintings_url">
+        <item>http://www.pablopicasso.org/images/paintings/the-old-guitarist.jpg</item>
+        <item>http://www.pablopicasso.org/images/paintings/avignon.jpg</item>
+        <item>http://www.pablopicasso.org/images/paintings/accordionist.jpg</item>
+        <item>http://www.pablopicasso.org/images/paintings/the-weeping-woman.jpg</item>
+        <item>http://www.pablopicasso.org/images/paintings/nude-in-a-black-arm-chair.jpg</item>
+        <item>http://www.pablopicasso.org/images/paintings/seated-woman.jpg</item>
+        <item>http://www.pablopicasso.org/images/paintings/sleeping-peasants.jpg</item>
+    </string-array>
+
+</resources>
