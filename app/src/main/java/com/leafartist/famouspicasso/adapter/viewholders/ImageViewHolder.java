@@ -15,6 +15,7 @@ public class ImageViewHolder {
 
     }
 
+
     public ImageViewHolder(View view)
     {
         imageView = (ImageView) view;
